@@ -1,6 +1,6 @@
 #!/bin/sh
 
-wget https://raw.github.com/arunoda/travis-ci-meteor-packages/master/Makefile
+wget https://raw.github.com/anthonymayer/travis-ci-meteor-packages/master/Makefile
 
 mkdir -p .scripts
 
