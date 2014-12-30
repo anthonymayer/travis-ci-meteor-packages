@@ -1,3 +1,3 @@
 test: 
-	node .scripts/start_test.js
+	meteor --test
 .PHONY: test
